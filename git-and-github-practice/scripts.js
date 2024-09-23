@@ -2,6 +2,5 @@
 // gato enano
 
 // me encanta pequeño
-// estoy cansadita ya hehe
 
-// holi
+// estoy cansadita ya
